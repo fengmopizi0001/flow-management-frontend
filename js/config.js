@@ -5,12 +5,12 @@
 // API配置
 const API_CONFIG = {
     // 开发环境API地址（本地测试）
-    development: 'http://localhost:5000/api',
+    development: 'http://localhost:5000',
     
     // 生产环境API地址（PythonAnywhere）
     // 请替换为您的 PythonAnywhere 地址
-    // 格式: https://your-username.pythonanywhere.com/api
-    production: 'https://fengmopizi0001.pythonanywhere.com/api'
+    // 格式: https://your-username.pythonanywhere.com
+    production: 'https://fengmopizi0001.pythonanywhere.com'
 };
 
 // 自动选择环境
