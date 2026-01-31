@@ -10,7 +10,7 @@ const API_CONFIG = {
     // 生产环境API地址（PythonAnywhere）
     // 请替换为您的 PythonAnywhere 地址
     // 格式: https://your-username.pythonanywhere.com/api
-    production: 'https://your-username.pythonanywhere.com/api'
+    production: 'https://fengmopizi0001.pythonanywhere.com/api'
 };
 
 // 自动选择环境
